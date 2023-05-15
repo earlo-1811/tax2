@@ -1,0 +1,18 @@
+steps for cloning files from gitbash to your desktop
+1.create a repository
+2.copy repository link
+3.in your git bash terminal after one cd's into desktop
+input command: git clone address
+do make sure to add the "@" symbol and get your token placed before it
+to create files in it
+cd into repository folder eg. cd fax2
+then input command: touch name
+where name is the file name
+to add them to git hub input the command
+git add .
+then commit to git hub using this command
+git commit -m "input desc"
+then send it back to git hub using
+git push
+~
+
